@@ -1,7 +1,11 @@
 import React from "react";
 
 const CardsNurjan = () => {
-  return <div>Cards</div>;
+  return (
+    <div>
+      <h1>Cards</h1>{" "}
+    </div>
+  );
 };
 
 export default CardsNurjan;
