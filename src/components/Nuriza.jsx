@@ -1,7 +1,7 @@
 import React from "react";
 
 const Nuriza = () => {
-  return <div>Nuriza</div>;
+  return <span>hello</span>;
 };
 
 export default Nuriza;
