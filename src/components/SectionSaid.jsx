@@ -1,7 +1,7 @@
 import React from "react";
 
 const SectionSaid = () => {
-  return <div></div>;
+  return <div>УМЕНЯ ВСЕ ПРАВИЛЬНО</div>;
 };
 
 export default SectionSaid;
